@@ -1,0 +1,7 @@
+a fa visszaallitasa ugy van megoldva, hogy rakunk egy fejlecet a fileba. 11 0 [betukod] 11 11 0 [betukod] ... sorozat ertelmezese a kovetkezo:
+11: ket iranyba agazik el a fa
+0: levelhez ertunk, a kodja a kov. 8 bit
+a betukod unsigned char formaban van tarolva
+a rekonstrualo algoritmus mindig a leheto legbaloldalibb helyre illeszti be az uj elemet
+ezzel a modszerrel egy 30 levelu fa leirhato kb 40 bajton, egy 5 levelu fa pedig 7 bajton
+tovabbi infokert bongeszd a .huf fajlokat vagy a huffman_ki.c t :D 

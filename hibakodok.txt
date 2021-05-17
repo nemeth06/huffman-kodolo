@@ -1,0 +1,3 @@
+0: sikeres muvelet
+1: argumentumhiba
+2: filehiba
